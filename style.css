@@ -122,9 +122,11 @@ body {
 
 
 .mynavbar .navbar-brand, .mynavbar .offcanvas-title {
-   font-family: 'Sacramento', cursive;
-   font-size: 1.2rem;
+   font-family: 'Kalam', cursive;
+   font-size: 1.5rem;
    font-weight: bold;
+   img-width: 5px;
+   
 }
 
 .mynavbar .nav-link {
@@ -250,3 +252,4 @@ body {
 
 
 }
+
